@@ -20,6 +20,7 @@ library
                      , H03
                      , H04
                      , H05
+                     , H06
   build-depends:       base >= 4.7 && < 5
   default-language:    Haskell2010
 
