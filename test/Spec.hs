@@ -7,6 +7,7 @@ import qualified Tests.H03
 import qualified Tests.H04
 import qualified Tests.H05
 import qualified Tests.H06
+import qualified Tests.H07
 
 main = defaultMain
   [ Tests.H01.tests
@@ -15,4 +16,5 @@ main = defaultMain
   , Tests.H04.tests
   , Tests.H05.tests
   , Tests.H06.tests
+  , Tests.H07.tests
   ]
